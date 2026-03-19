@@ -1,7 +1,7 @@
 # Secure Architecture for Headless Mobile Fleet Management
 
-**Author:** [Insert Name]
-**Date:** [Insert Date]
+**Author:** antoine lagier
+**Date:** Dec 2025
 
 ## 1. Executive Summary and Operational Context
 Managing a large-scale fleet of mobile devices for continuous integration, automated testing, or dynamic monitoring requires a hardened, headless control plane. The architectural imperative is isolating the unpredictable nature of mobile hardware interfaces from the stability of the central management API. This paper defines the security patterns, isolation constraints, and threat mitigation strategies required to build a resilient, asynchronous command dispatch system for connected Android devices.
